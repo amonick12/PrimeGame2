@@ -238,7 +238,7 @@ public class myJPanelstd extends JPanel implements ActionListener, KeyListener
     {
         if(isEdgeCase(formerPos) == true)
         {
-            
+            //
         }
     }
     
